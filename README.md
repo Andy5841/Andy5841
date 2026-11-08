@@ -29,13 +29,9 @@ I'm a Computer Science student who enjoys understanding how technology works, ex
 
 A workout tracking application built with React and JavaScript.
 
-[**Live Demo →**](https://30workouts.netlify.app/)
-
-### Personal Portfolio
+### [Personal Portfolio](andyhuynhportfolio.netlify.app)
 
 A personal website showcasing my software projects, experience, and photography.
-
-[**Live Demo →**](andyhuynhportfolio.netlify.app)
 
 ## What I'm Exploring
 
